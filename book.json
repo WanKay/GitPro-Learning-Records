@@ -1,0 +1,18 @@
+{
+
+	"title":"GitPro",
+	"author":"wankay",
+	"description":"Learn Git",
+	"language":"zh-hans",	
+	"links":{
+		"sidebar":{
+			"百度一下":"https://www.baidu.com",
+			"我的GitHub":"https://wankay.github.io"
+		}
+	},			
+	"plugins":[
+		"-sharing",
+		"expandable-chapters"
+	]
+
+}
